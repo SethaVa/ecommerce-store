@@ -1,10 +1,12 @@
 # Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
 
-[Admin Dashboard](https://github.com/SethaVa/ecommerce-admin-dashboard)
+![app-banner](https://raw.githubusercontent.com/SethaVa/react-portfolio/main/src/assets/mac-store.png?token=GHSAT0AAAAAACJUGAYRN3ZKPN65MOYPGMBKZKOCI6Q)
 
 For DEMO, use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 This is a repository for a Full Stack E-Commerce + Dashboard & CMS: Next.js 13 App Router, React, Tailwind, Prisma, MySQL
+
+For Admin Dashboard, [Here](https://github.com/SethaVa/ecommerce-admin-dashboard)
 
 Key Features:
 
